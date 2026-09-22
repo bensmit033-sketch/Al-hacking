@@ -56,7 +56,7 @@ sudo python3 Al-hacking.py
 
 # Termux
 
-git clone https://github.com/4lbH4cker/AL-SEARCH
+git clone https://github.com/bensmit033-sketch/Al-hacking
 
 cd Al-hacking
 
